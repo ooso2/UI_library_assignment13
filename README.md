@@ -1,26 +1,26 @@
-#  Olubunmi Oso UI Garden Build Checks
+# Olubunmi Oso UI Garden Build Checks
 
 This project is a modern React + TypeScript application designed with robust code quality and build processes in mind. It features automated linting, formatting, testing, and is Dockerized with NGINX for production deployment.
 
 ---
 
-##  Project Features
+## Project Features
 
--  React + TypeScript
--  ESLint for static code analysis
--  Prettier for consistent code formatting
--  Husky + lint-staged for pre-commit hooks
--  Jest and React Testing Library for testing
--  Docker & NGINX setup for production
--  Clean and scalable project structure
-
----
-
-##  Project Structure
+- React + TypeScript
+- ESLint for static code analysis
+- Prettier for consistent code formatting
+- Husky + lint-staged for pre-commit hooks
+- Jest and React Testing Library for testing
+- Docker & NGINX setup for production
+- Clean and scalable project structure
 
 ---
 
-##  Installation
+## Project Structure
+
+---
+
+## Installation
 
 ### Prerequisites
 
@@ -37,3 +37,4 @@ cd olubunmi_oso_ui_garden_build_checks
 
 
 
+```
